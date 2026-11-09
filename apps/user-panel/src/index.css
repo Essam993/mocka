@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: rgb(var(--color-page));
+  color: rgb(var(--color-text));
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  transition: background-color 0.2s, color 0.2s;
+}

@@ -1,0 +1,1 @@
+{ "extends": "../../tsconfig.base.json", "include": ["src", "tailwind.config.ts", "vite.config.ts", "../../packages/shared/src/components/Placeholder.tsx", "../user-panel/src/store/services/projectCollectionSlice.ts", "../user-panel/src/store/reducers/userProjectApi copy.ts"] }

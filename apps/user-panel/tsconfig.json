@@ -1,0 +1,1 @@
+{ "extends": "../../tsconfig.base.json", "include": ["src", "tailwind.config.ts", "vite.config.ts", "../../packages/shared/src/store/services/signupApi.ts", "../../packages/shared/src/types/signup.ts"] }
